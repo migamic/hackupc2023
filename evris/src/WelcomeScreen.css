@@ -1,0 +1,58 @@
+/* Welcome screen */
+.welcome-screen {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    color: #4D4D4D;
+    padding: 20px;
+    animation: welcome-screen-appear 1s forwards;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.welcome-screen.hide {
+    animation: welcome-screen-disappear 1s forwards;
+}
+
+/* Button */
+.welcome-screen button {
+    background-color: #FFCC00;
+    color: #4D4D4D;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.welcome-screen button:hover {
+    background-color: #444;
+    color: #FFCC00;
+}
+
+/* Animations */
+@keyframes welcome-screen-appear {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -200%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+}
+
+@keyframes welcome-screen-disappear {
+    from {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+
+    to {
+        opacity: 0;
+        transform: translate(-50%, -200%);
+    }
+}
