@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+## Inspiration
+The original goal of the team was to make a mini-game for flight travelers, that would get them to know the streets of their city destination. The game has a very simple concept, reminding of agar.io, where the users are tourists guides in the city and they have to compete to try and gather the largest crowd, while visiting the most important touristic spots in the city.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The end goal is that users, after playing a few games will get familiar with the city layout, so when they are the actual tourists in the city, they will know where everything is and how to reach the most important landmarks.
 
-## Available Scripts
+## What it does
+The road network of the destination city is pre-downloaded from OpenStreetMap and parsed to our needs. Map tiles and any other data is also pre-downloaded (since users will not have internet connection during the flight). The preprocessing system is very flexible and can work with any region in the world.
 
-In the project directory, you can run:
+The user is then able to move around the streets of the city while seeing the most important landmarks around
 
-### `npm start`
+## How we built it
+The preprocessing uses Python to export data from OpenStreetMap (the road layout and the landmark coordinates through Overpass queries). We also use MapTiler's tiles to pre-render the background map.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The main application is built using React, using Konva and D3 for processing and drawing the network graph.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Challenges we ran into
+Coding the React app was very challenging because we had zero prior experience.
 
-### `npm test`
+## Accomplishments that we're proud of
+We managed to get a (limited) working project, that runs efficiently and has a very clean UI.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## What we learned
+Since this was the first hackathon for the 2/3 people of the team, first and foremost we got a better look at prototyping and the importance of planning every step of the app production properly.
 
-### `npm run build`
+We also learned the basics of React and web development and improved our knowledge in querying public APIs.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## What's next for Street Explorer
+We would have liked to have full controls working, allowing the user to navigate the city at will. We would have also liked to implement more game mechanics, such as gathering a crowd that follows the player.
+Similarly to agar.io, the future of Street Explorer is a multiplayer game, where multiple users (_i.e._, the plane passengers) can log into the same local network and compete against each other on a fight to pick up as many tourists along the way as possible.
