@@ -1,4 +1,6 @@
-import json # Define the node and edge data
+import json
+
+# Define the node and edge data
 nodes = [
     {"id": "0", "x": 6, "y": 4, "degree": "4"},
     {"id": "1", "x": 9, "y": 5, "degree": "2"},
