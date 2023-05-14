@@ -1,0 +1,50 @@
+.control-buttons button{
+    position: fixed;
+    bottom: 80px;
+    left: 50px;
+    background-color: #FFE066;
+    color: #444;
+    border: none;
+    border-radius: 70px;
+    cursor: pointer;
+    font-size: xx-large;
+    height: 60px;
+    width: 60px;
+}
+
+.control-buttons button:hover {
+  background-color: #444;
+  color: #FFE066;
+}
+
+#UP {
+    bottom: 125px;
+    left: 80px;
+}
+
+#UP:hover{
+}
+
+#DOWN {
+    bottom: 35px;
+    left: 80px;
+}
+
+#DOWN:hover {
+}
+
+#LEFT {
+    bottom: 80px;
+    left: 35px;
+}
+
+#LEFT:hover {
+}
+
+#RIGHT {
+    bottom: 80px;
+    left: 125px;
+}
+
+#RIGHT:hover {
+}

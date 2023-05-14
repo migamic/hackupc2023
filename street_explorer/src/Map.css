@@ -1,0 +1,72 @@
+.control-buttons button{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background-color: #FFE066;
+    color: #444;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.control-buttons button:hover {
+  background-color: #444;
+  color: #FFE066;
+}
+
+#UP {
+    font-size: xx-large;
+    position: fixed;
+    bottom: 115px;
+    left: 60px;
+    color: #444;
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#DOWN {
+    font-size: xx-large;
+    position: fixed;
+    bottom: 45px;
+    left: 60px;
+    color: #444;
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#LEFT {
+    font-size: xx-large;
+    position: fixed;
+    bottom: 80px;
+    left: 10px;
+    color: #444;
+    border: none;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#RIGHT {
+    font-size: xx-large;
+    position: fixed;
+    bottom: 80px;
+    left: 110px;
+    color: #444;
+    border: none;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}

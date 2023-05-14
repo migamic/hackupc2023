@@ -1,0 +1,80 @@
+.nav-button button{
+    position: fixed;
+    right: 20px;
+    background-color: #FFE066;
+    color: #444;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 40px;
+    font-family: "Segoe UI Emoji", sans-serif;
+    width: 70px;
+    height: 70px;
+}
+
+#citylist-button button{
+    bottom: 33%;
+}
+#settings-button button{
+    bottom: 23%;
+}
+#about-button button{
+    bottom: 13%;
+}
+#credits-button button{
+    bottom: 3%;
+}
+
+.nav-button button:hover {
+  background-color: #444;
+  color: #FFCC00;
+}
+
+.dest-banner {
+    position: fixed;
+    left: 20px;
+    top: 20px;
+    background-color: #FFE066;
+    color: #444;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    font-family: sans-serif;
+    text-align: center;
+    width: 400px;
+    height: auto;
+    word-wrap: break-word;
+}
+
+
+.dest-name {
+    font-size: 1em;
+}
+
+.score-banner {
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    background-color: #FFE066;
+    color: #444;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    font-family: sans-serif;
+    text-align: center;
+    width: 400px;
+    height: auto;
+    word-wrap: break-word;
+}
+
+@media screen and (max-width: 768px) {
+  .score-banner {
+    width: 40%; /* Set maximum width to 40% on small screens */
+  }
+  .dest-banner {
+    width: 40%; /* Set maximum width to 40% on small screens */
+  }
+}

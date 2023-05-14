@@ -1,0 +1,767 @@
+{
+    "POIs": [
+        {
+            "id": 194586875,
+            "x": 73.65244136871512,
+            "y": -4703202.260603733,
+            "name": "Mesquita Shah Jalal Jame",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 194586875,
+            "x": 73.65244136871512,
+            "y": -4703202.260603733,
+            "name": "Mesquita Shah Jalal Jame",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 438426043,
+            "x": 1383.2564398308048,
+            "y": -4702112.623545935,
+            "name": "Homenatge als castellers",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 438426043,
+            "x": 1383.2564398308048,
+            "y": -4702112.623545935,
+            "name": "Homenatge als castellers",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 3045464831,
+            "x": 3005.2633602460423,
+            "y": -4703648.734920443,
+            "name": "Crescendo appare",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 3045464831,
+            "x": 3005.2633602460423,
+            "y": -4703648.734920443,
+            "name": "Crescendo appare",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4232407089,
+            "x": 2465.132641291751,
+            "y": -4702022.482594239,
+            "name": "Monument Barcelona al general Moragues. 1672 \u2013 1715. Heroi i m\u00e0rtir de Catalunya",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4232407089,
+            "x": 2465.132641291751,
+            "y": -4702022.482594239,
+            "name": "Monument Barcelona al general Moragues. 1672 \u2013 1715. Heroi i m\u00e0rtir de Catalunya",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4234485153,
+            "x": 1344.7481737792725,
+            "y": -4704033.515294577,
+            "name": "Monument a Lepanto",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4234485153,
+            "x": 1344.7481737792725,
+            "y": -4704033.515294577,
+            "name": "Monument a Lepanto",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4360979091,
+            "x": 104.45597846981934,
+            "y": -4701332.839230037,
+            "name": "Esgl\u00e9sia Adventista del Set\u00e8 Dia",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4360979091,
+            "x": 104.45597846981934,
+            "y": -4701332.839230037,
+            "name": "Esgl\u00e9sia Adventista del Set\u00e8 Dia",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4413513629,
+            "x": 971.1380238369408,
+            "y": -4700646.151751439,
+            "name": "A Francesc Camb\u00f3",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4413513629,
+            "x": 971.1380238369408,
+            "y": -4700646.151751439,
+            "name": "A Francesc Camb\u00f3",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4475257011,
+            "x": 2353.621683967658,
+            "y": -4700215.9483646415,
+            "name": "Monument a Rius i Taulet",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4475257011,
+            "x": 2353.621683967658,
+            "y": -4700215.9483646415,
+            "name": "Monument a Rius i Taulet",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4510326838,
+            "x": 203.7101114955467,
+            "y": -4702642.676205942,
+            "name": "Sikh Gurudwara Gurdarshan Sahib Ji",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4510326838,
+            "x": 203.7101114955467,
+            "y": -4702642.676205942,
+            "name": "Sikh Gurudwara Gurdarshan Sahib Ji",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4707010317,
+            "x": -685.4555940023081,
+            "y": -4701646.922413718,
+            "name": "Francesc Layret",
+            "nearest_node": 442540253
+        },
+        {
+            "id": 4707010317,
+            "x": -685.4555940023081,
+            "y": -4701646.922413718,
+            "name": "Francesc Layret",
+            "nearest_node": 442540253
+        },
+        {
+            "id": 4776363008,
+            "x": 1223.3948481352916,
+            "y": -4702701.712563296,
+            "name": "Templo Hare Krishna",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 4776363008,
+            "x": 1223.3948481352916,
+            "y": -4702701.712563296,
+            "name": "Templo Hare Krishna",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 5020020723,
+            "x": 3021.257208765824,
+            "y": -4701984.815391499,
+            "name": "Testigos de Jehov\u00e1",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 5020020723,
+            "x": 3021.257208765824,
+            "y": -4701984.815391499,
+            "name": "Testigos de Jehov\u00e1",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 5108932664,
+            "x": 1810.492118415963,
+            "y": -4700240.653059887,
+            "name": "Mesquita Al\u00ed",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 5108932664,
+            "x": 1810.492118415963,
+            "y": -4700240.653059887,
+            "name": "Mesquita Al\u00ed",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 5108939927,
+            "x": 1357.2202998846246,
+            "y": -4700613.664128054,
+            "name": "Centre Isl\u00e0mic d'Al-Qaim",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 5108939927,
+            "x": 1357.2202998846246,
+            "y": -4700613.664128054,
+            "name": "Centre Isl\u00e0mic d'Al-Qaim",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 6616444476,
+            "x": -143.7254901961279,
+            "y": -4700868.602481514,
+            "name": "Dojo Zen Barcelona Kannon",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 6616444476,
+            "x": -143.7254901961279,
+            "y": -4700868.602481514,
+            "name": "Dojo Zen Barcelona Kannon",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 7003296925,
+            "x": -649.96155324879,
+            "y": -4704133.744222818,
+            "name": "Cuerpo De Cristo",
+            "nearest_node": 442540253
+        },
+        {
+            "id": 7003296925,
+            "x": -649.96155324879,
+            "y": -4704133.744222818,
+            "name": "Cuerpo De Cristo",
+            "nearest_node": 442540253
+        },
+        {
+            "id": 8148381317,
+            "x": -253.298731257207,
+            "y": -4703647.704428215,
+            "name": "Josep Maria Folch i Torres",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 8148381317,
+            "x": -253.298731257207,
+            "y": -4703647.704428215,
+            "name": "Josep Maria Folch i Torres",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 9163326038,
+            "x": 2713.8677431756732,
+            "y": -4700161.549222311,
+            "name": "Pepita Texidor",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 9163326038,
+            "x": 2713.8677431756732,
+            "y": -4700161.549222311,
+            "name": "Pepita Texidor",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 9868026130,
+            "x": 2567.262591311017,
+            "y": -4700279.269400204,
+            "name": "Est\u00e0tua de Bonaventura Carles Aribau",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 9868026130,
+            "x": 2567.262591311017,
+            "y": -4700279.269400204,
+            "name": "Est\u00e0tua de Bonaventura Carles Aribau",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10196518253,
+            "x": 2705.1633986927536,
+            "y": -4700063.842288205,
+            "name": "Barcelona al gran benefactor Lleo Fontova",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10196518253,
+            "x": 2705.1633986927536,
+            "y": -4700063.842288205,
+            "name": "Barcelona al gran benefactor Lleo Fontova",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10196549892,
+            "x": 1852.7374086889113,
+            "y": -4701112.883375883,
+            "name": "Sant Joan Baptista, patr\u00f3 del gremi d'Assaonadors",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10196549892,
+            "x": 1852.7374086889113,
+            "y": -4701112.883375883,
+            "name": "Sant Joan Baptista, patr\u00f3 del gremi d'Assaonadors",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10296445903,
+            "x": 1282.0030757400964,
+            "y": -4703431.951897618,
+            "name": "Als Santpere",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10296445903,
+            "x": 1282.0030757400964,
+            "y": -4703431.951897618,
+            "name": "Als Santpere",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10555364978,
+            "x": 2622.4721261053264,
+            "y": -4700334.617680111,
+            "name": "Monument a Joan Maragall",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10555364978,
+            "x": 2622.4721261053264,
+            "y": -4700334.617680111,
+            "name": "Monument a Joan Maragall",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10555366264,
+            "x": 2719.773164167564,
+            "y": -4700290.57769649,
+            "name": "Escultura a Mari\u00e0 Aguil\u00f3 i Fuster",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10555366264,
+            "x": 2719.773164167564,
+            "y": -4700290.57769649,
+            "name": "Escultura a Mari\u00e0 Aguil\u00f3 i Fuster",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10556792631,
+            "x": 2633.2833525566866,
+            "y": -4700248.0834512105,
+            "name": "A V\u00edctor Balaguer",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10556792631,
+            "x": 2633.2833525566866,
+            "y": -4700248.0834512105,
+            "name": "A V\u00edctor Balaguer",
+            "nearest_node": 3184416510
+        },
+        {
+            "id": 10595855014,
+            "x": 9.28419607843132,
+            "y": 1.6029253115491306,
+            "name": "",
+            "nearest_node": 1484164534
+        },
+        {
+            "id": 10426929,
+            "y": 5.739911850074544,
+            "x": 4.233371395617233,
+            "name": "Gran Teatre del Liceu",
+            "nearest_node": 30227091
+        },
+        {
+            "id": 18642080,
+            "y": 3.7893006471654194,
+            "x": 2.694228758169776,
+            "name": "Seu del Districte de Ciutat Vella",
+            "nearest_node": 100451083
+        },
+        {
+            "id": 33570474,
+            "y": 1.6103276041591923,
+            "x": 8.162946915351432,
+            "name": "Castell dels Tres Dragons",
+            "nearest_node": 7254110663
+        },
+        {
+            "id": 36930946,
+            "y": 4.221090028601756,
+            "x": 1.6776647945608492,
+            "name": "Museu d'Art Contemporani de Barcelona",
+            "nearest_node": 8515568537
+        },
+        {
+            "id": 37185490,
+            "y": 5.679291142313955,
+            "x": 3.7225652467886134,
+            "name": "Sant Agust\u00ed",
+            "nearest_node": 8246196160
+        },
+        {
+            "id": 51260215,
+            "y": 3.840744772707939,
+            "x": 7.652002306805047,
+            "name": "Bas\u00edlica de Santa Maria del Mar",
+            "nearest_node": 30243970
+        },
+        {
+            "id": 123197983,
+            "y": 7.1572422878689705,
+            "x": 0.1732584670230784,
+            "name": "Biblioteca Sant Antoni - Joan Oliver",
+            "nearest_node": 6833338774
+        },
+        {
+            "id": 126452923,
+            "y": 8.017486162950634,
+            "x": 5.989258312020222,
+            "name": "Monument a Colom",
+            "nearest_node": 546679240
+        },
+        {
+            "id": 128230182,
+            "y": 2.5722105657324135,
+            "x": 2.980337254901957,
+            "name": "Monument a Francesc Maci\u00e0",
+            "nearest_node": 1400477181
+        },
+        {
+            "id": 135115868,
+            "y": 0.5814344092790675,
+            "x": 9.424814302191324,
+            "name": "Cascada del Parc de la Ciutadella",
+            "nearest_node": 7650348422
+        },
+        {
+            "id": 147085468,
+            "y": 6.56839972382022,
+            "x": 3.306725490196057,
+            "name": "Filmoteca de Catalunya",
+            "nearest_node": 30227048
+        },
+        {
+            "id": 166565579,
+            "y": 6.473781339023618,
+            "x": 4.604279411764552,
+            "name": "Palau G\u00fcell",
+            "nearest_node": 3749401929
+        },
+        {
+            "id": 166566543,
+            "y": 7.196800847123288,
+            "x": 5.809140392156637,
+            "name": "Museu de Cera",
+            "nearest_node": 1400747714
+        },
+        {
+            "id": 166567466,
+            "y": 4.944113918548243,
+            "x": 6.551736551030735,
+            "name": "Centre C\u00edvic Pati Llimona",
+            "nearest_node": 2457878234
+        },
+        {
+            "id": 214585960,
+            "y": 3.2391739874795507,
+            "x": 7.414625668449282,
+            "name": "Casa Mauri",
+            "nearest_node": 2267977527
+        },
+        {
+            "id": 215873439,
+            "y": 8.837339000812744,
+            "x": 0.7035749019608305,
+            "name": "Parroquia Santa Madrona",
+            "nearest_node": 8309012669
+        },
+        {
+            "id": 217108957,
+            "y": 8.260936828088592,
+            "x": 2.981333333333197,
+            "name": "Teatre Arnau",
+            "nearest_node": 1009334648
+        },
+        {
+            "id": 217135134,
+            "y": 4.937129511507792,
+            "x": 7.27064860368386,
+            "name": "Oficina de Correos",
+            "nearest_node": 30252160
+        },
+        {
+            "id": 217139671,
+            "y": 9.173798653041331,
+            "x": 3.580196078431279,
+            "name": "Poliesportiu les tres xemeneies",
+            "nearest_node": 7041153862
+        },
+        {
+            "id": 217514761,
+            "y": 1.6000206751922015,
+            "x": 6.371760348583688,
+            "name": "Casal de Barri Pou de la Figuera",
+            "nearest_node": 30244385
+        },
+        {
+            "id": 221456959,
+            "y": 2.1752391428521833,
+            "x": 9.704147355911983,
+            "name": "Capella Castrense",
+            "nearest_node": 1484164514
+        },
+        {
+            "id": 240919957,
+            "y": 1.9057857273186707,
+            "x": 9.443267973856065,
+            "name": "Ludoteca Parc de la Ciutadella",
+            "nearest_node": 1484164534
+        },
+        {
+            "id": 249401994,
+            "y": 6.046752781692367,
+            "x": 0.9506623093680411,
+            "name": "Mare de D\u00e9u del Carme",
+            "nearest_node": 3215577566
+        },
+        {
+            "id": 249402100,
+            "y": 5.709851850406602,
+            "x": 1.6517745098038108,
+            "name": "Casa Erasme de G\u00f2nima",
+            "nearest_node": 30884299
+        },
+        {
+            "id": 249403124,
+            "y": 6.025066525431461,
+            "x": 1.5642920536634262,
+            "name": "Sant Ll\u00e0tzer",
+            "nearest_node": 9167289532
+        },
+        {
+            "id": 249403497,
+            "y": 3.578876785599111,
+            "x": 1.279456327985808,
+            "name": "Biblioteca de La Facultat de Comunicaci\u00f3 i Relacions Internacionals Blanquerna",
+            "nearest_node": 6423868153
+        },
+        {
+            "id": 249408858,
+            "y": 3.345260544139478,
+            "x": 1.1231229946522354,
+            "name": "Sant Pere Nolasc",
+            "nearest_node": 2964228031
+        },
+        {
+            "id": 305246059,
+            "y": 3.907641434349097,
+            "x": 1.201443137255034,
+            "name": "Centre de Cultura Contempor\u00e0nia de Barcelona",
+            "nearest_node": 6423868168
+        },
+        {
+            "id": 311546101,
+            "y": 6.084199115603592,
+            "x": 6.718421848739168,
+            "name": "Bas\u00edlica de la Merc\u00e8",
+            "nearest_node": 30252169
+        },
+        {
+            "id": 324836942,
+            "y": 2.805543707716908,
+            "x": 6.842266666666611,
+            "name": "Capella d'en Marc\u00fas",
+            "nearest_node": 216278102
+        },
+        {
+            "id": 338085708,
+            "y": 3.6405219325334004,
+            "x": 7.7200043572984995,
+            "name": "Capella del Sant\u00edssim",
+            "nearest_node": 4212111676
+        },
+        {
+            "id": 338522966,
+            "y": 7.166773619066984,
+            "x": 5.130575163398797,
+            "name": "Sant Josep i Santa M\u00f2nica",
+            "nearest_node": 207155409
+        },
+        {
+            "id": 338750143,
+            "y": 5.0868135804282435,
+            "x": 6.102500948766576,
+            "name": "Esgl\u00e9sia de la Mare de D\u00e9u de la Vict\u00f2ria",
+            "nearest_node": 30254248
+        },
+        {
+            "id": 338750145,
+            "y": 4.488587256157893,
+            "x": 5.203543252594949,
+            "name": "Sinagoga Major de Barcelona",
+            "nearest_node": 30243956
+        },
+        {
+            "id": 338758944,
+            "y": 3.7498172654909956,
+            "x": 1.3442248366014318,
+            "name": "Santa Maria de Montalegre",
+            "nearest_node": 6423868153
+        },
+        {
+            "id": 377875377,
+            "y": 0.07918849386102,
+            "x": 7.117252837977343,
+            "name": "Arc de Triomf",
+            "nearest_node": 9250200880
+        },
+        {
+            "id": 385569196,
+            "y": 2.0400788699803107,
+            "x": 5.743815359476883,
+            "name": "Escola Cervantes",
+            "nearest_node": 30244377
+        },
+        {
+            "id": 498866341,
+            "y": 8.996493665066001,
+            "x": 4.658209150326671,
+            "name": "Servei de Conciliacions dels Serveis Territorials a Barcelona",
+            "nearest_node": 7041153794
+        },
+        {
+            "id": 527297738,
+            "y": 2.1039794233912383,
+            "x": 7.405060784313662,
+            "name": "Resid\u00e8ncia d'estudiants",
+            "nearest_node": 8319980434
+        },
+        {
+            "id": 574330165,
+            "y": 0.8779714718530592,
+            "x": 6.457331372549181,
+            "name": "Font Modernista",
+            "nearest_node": 2483209123
+        },
+        {
+            "id": 625295823,
+            "y": 4.868294115880112,
+            "x": 4.5256274509802825,
+            "name": "Campanar de Santa Maria del Pi",
+            "nearest_node": 30297995
+        },
+        {
+            "id": 625295824,
+            "y": 4.8249407806886095,
+            "x": 4.4546943881001315,
+            "name": "Parr\u00f2quia Bas\u00edlica de Santa Maria del Pi",
+            "nearest_node": 30254304
+        },
+        {
+            "id": 643045234,
+            "y": 4.0867691676289315,
+            "x": 6.3365337159253246,
+            "name": "Palau Requesens",
+            "nearest_node": 209095788
+        },
+        {
+            "id": 643143595,
+            "y": 3.9996568608635688,
+            "x": 5.178712074303533,
+            "name": "Esgl\u00e9sia de Sant Sever",
+            "nearest_node": 3439181978
+        },
+        {
+            "id": 646559087,
+            "y": 5.348322264393754,
+            "x": 9.02017320261416,
+            "name": "Palau de Mar",
+            "nearest_node": 683286024
+        },
+        {
+            "id": 646560675,
+            "y": 4.93600973789104,
+            "x": 8.510078431372444,
+            "name": "Colegi Oficial de Pesadors I Medidors Publics",
+            "nearest_node": 4232398051
+        },
+        {
+            "id": 646562355,
+            "y": 8.55416456016591,
+            "x": 5.793831478537327,
+            "name": "Duana del Port",
+            "nearest_node": 1401653177
+        },
+        {
+            "id": 658909940,
+            "y": 8.902481893816116,
+            "x": 4.261890196078451,
+            "name": "Centre Albareda",
+            "nearest_node": 7041153812
+        },
+        {
+            "id": 658909945,
+            "y": 8.94706938449984,
+            "x": 4.325456582633095,
+            "name": "Llar Pere Barnes",
+            "nearest_node": 7041153812
+        },
+        {
+            "id": 671820179,
+            "y": 3.138653423154376,
+            "x": 4.200242919389861,
+            "name": "Palau Solterra-Barber\u00e0",
+            "nearest_node": 10000125873
+        },
+        {
+            "id": 671830480,
+            "y": 1.9997184559213026,
+            "x": 5.017553921568613,
+            "name": "Petit Palau",
+            "nearest_node": 30252323
+        },
+        {
+            "id": 714757501,
+            "y": 6.978193463753035,
+            "x": 5.591802916038081,
+            "name": "Casa Codorniu",
+            "nearest_node": 1400747719
+        },
+        {
+            "id": 770887437,
+            "y": 6.940226861538122,
+            "x": 0.1849887955181228,
+            "name": "Espai de gent gran Sant Antoni",
+            "nearest_node": 7042201704
+        },
+        {
+            "id": 779596607,
+            "y": 7.399999139065291,
+            "x": 3.4347725490196717,
+            "name": "Comissaria de la Gu\u00e0rdia Urbana",
+            "nearest_node": 8246216468
+        },
+        {
+            "id": 779596615,
+            "y": 7.414443050912821,
+            "x": 3.449967320261341,
+            "name": "Comissaria de la Gu\u00e0rdia Urbana",
+            "nearest_node": 8246216468
+        },
+        {
+            "id": 779596845,
+            "y": 7.650790476391023,
+            "x": 3.436203431372581,
+            "name": "Comissaria dels Mossos d'Esquadra a Ciutat Vella",
+            "nearest_node": 7042385445
+        },
+        {
+            "id": 814235101,
+            "y": 0.4850558806316656,
+            "x": 3.5489299719887457,
+            "name": "Esglesia del Sagrat Cor",
+            "nearest_node": 3184350770
+        },
+        {
+            "id": 821498726,
+            "y": 5.199988296374144,
+            "x": 4.524246498599513,
+            "name": "Casa Ignasi de Puig",
+            "nearest_node": 30252194
+        }
+    ]
+}
